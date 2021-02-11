@@ -1,13 +1,13 @@
 :root {
-  --accent-color: #1db954;
-  --accent-hover: #1ed760;
-  --accent-rgb: 29,185,84;
-  --alt-accent: #5680d4;
-  --alert-color: #f04747;
-  --alert-hover: #ff4c4c;
-  --chat-color: #181818;
-  --chat-box-color: #272727;
-  --side-color: #121212;
+  --accent-color: #00ff00;
+  --accent-hover: #00ff00;
+  --accent-rgb: 0,255,0;
+  --alt-accent: #00ff00;
+  --alert-color: #00ff00;
+  --alert-hover: #00ff00;
+  --chat-color: #000000;
+  --chat-box-color: #000000;
+  --side-color: #000000;
   --bar-color: #282828;
   /*--button-background: #1a1a1a;*/
   --button-background: rgba(0,0,0,0.2);
